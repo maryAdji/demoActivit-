@@ -1,2 +1,3 @@
 Ce fichier nous permettra de presenter le projet.
-Notre projet s'appelle E-wanacc et evolue dans le domaine de l'assainissement. 
+Notre projet s'appelle E-wanacc et evolue dans le domaine de l'assainissement.
+E-wanacc permet de construre des latrines ecologiques et intelligentes. 
