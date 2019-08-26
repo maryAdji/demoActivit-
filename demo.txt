@@ -1,1 +1,2 @@
 Ce fichier nous donne une breve demostration du projet.
+Le demo est un prototype crée a partir d'une impression 3D pour réaliser une latrines.
