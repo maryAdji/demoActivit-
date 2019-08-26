@@ -1,1 +1,2 @@
 Ce fichier nous permettra de presenter le projet.
+Notre projet s'appelle E-wanacc et evolue dans le domaine de l'assainissement. 
